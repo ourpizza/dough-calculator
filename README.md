@@ -1,2 +1,1 @@
-# dough-calculator
-Pizza Dough Calculator
+# Our Pizza Dough Calculator
